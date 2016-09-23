@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/JellyBool/laravel-package-develop-demo.svg?branch=master)](https://travis-ci.org/JellyBool/laravel-package-develop-demo)
+
 ### 开发 Laravel 扩展教程
 
 ### 用法
