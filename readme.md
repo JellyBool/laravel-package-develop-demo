@@ -3,7 +3,7 @@
 ### 用法
 
 ```
-omposer require composer require laravist/hasher
+composer require laravist/hasher
 ```
 
 或者在你的 `composer.json` 的 require 部分中添加:

@@ -3,3 +3,4 @@
 .phpintel/
 .phpcomplete_extended/
 
+composer.lock

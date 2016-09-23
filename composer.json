@@ -8,8 +8,10 @@
       "email": "jellybool@outlook.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "5.5.*"
+  },
   "autoload": {
     "psr-4": {
       "Laravist\\Hasher\\": "src/"
