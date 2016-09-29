@@ -1,6 +1,10 @@
 
 [![Build Status](https://travis-ci.org/JellyBool/laravel-package-develop-demo.svg?branch=master)](https://travis-ci.org/JellyBool/laravel-package-develop-demo)
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JellyBool/laravel-package-develop-demo/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JellyBool/laravel-package-develop-demo/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/JellyBool/laravel-package-develop-demo/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/JellyBool/laravel-package-develop-demo/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/JellyBool/laravel-package-develop-demo/badges/build.png?b=master)](https://scrutinizer-ci.com/g/JellyBool/laravel-package-develop-demo/build-status/master)
+
 ### 开发 Laravel 扩展教程
 
 ### 用法
