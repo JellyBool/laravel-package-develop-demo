@@ -8,7 +8,9 @@
       "email": "jellybool@outlook.com"
     }
   ],
-  "require": {},
+  "require": {
+    "php": ">=5.5.9"
+  },
   "require-dev": {
     "phpunit/phpunit": "5.5.*"
   },
